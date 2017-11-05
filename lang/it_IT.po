@@ -1,0 +1,903 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: at-os\n"
+"POT-Creation-Date: 2017-05-05 12:55+0200\n"
+"PO-Revision-Date: 2017-05-05 12:55+0200\n"
+"Last-Translator: Alex Righetto <alexrighetto@gmail.com>\n"
+"Language-Team: alexrighetto <alexrighetto@gmail.com>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin.php:10
+msgid "<span style=\"color:#000\">User</span> Sign-up"
+msgstr "Iscrizione <span style=\"color:#000\">utenti</span>"
+
+#: ../admin.php:18
+msgid "Note: Every field is requred."
+msgstr "Nota: ogni campo è obbligatorio"
+
+#: ../admin.php:22 ../admin.php:24
+msgid "Contact Name"
+msgstr "il tuo nome"
+
+#: ../admin.php:30 ../admin.php:32
+msgid "Contact Email"
+msgstr "la tua email"
+
+#: ../admin.php:42 ../admin.php:43 ../inc/registration-functions.php:7
+#: ../inc/registration-functions.php:115 ../inc/registration-functions.php:157
+#: ../inc/registration-functions.php:196
+msgid "Company name"
+msgstr "Nome azienda"
+
+#: ../admin.php:52 ../admin.php:53 ../inc/registration-functions.php:12
+#: ../inc/registration-functions.php:164 ../inc/registration-functions.php:201
+msgid "Address"
+msgstr "Indirizzo"
+
+#: ../admin.php:59 ../admin.php:60 ../inc/registration-functions.php:18
+#: ../inc/registration-functions.php:169 ../inc/registration-functions.php:206
+msgid "Zip code"
+msgstr "C.A.P."
+
+#: ../admin.php:69 ../admin.php:70 ../inc/registration-functions.php:24
+#: ../inc/registration-functions.php:174 ../inc/registration-functions.php:211
+msgid "State / Region"
+msgstr "Città"
+
+#: ../admin.php:76 ../admin.php:77 ../inc/registration-functions.php:30
+#: ../inc/registration-functions.php:116 ../inc/registration-functions.php:178
+#: ../inc/registration-functions.php:215
+msgid "Country"
+msgstr "Provincia"
+
+#: ../admin.php:90
+msgid "I agree with"
+msgstr "Accetto il"
+
+#: ../admin.php:90
+msgid "Privacy policy"
+msgstr "trattamento dei dati"
+
+#: ../admin.php:92
+msgid ""
+"Full registration will be approved by the AT-OS that will communicate the "
+"acceptance by e-mail."
+msgstr ""
+"La completa registrazione verrà approvata da AT-OS che comunicherà "
+"l'accettazione via email."
+
+#: ../admin.php:97
+msgid "Request Signup"
+msgstr "Richiedi registrazione"
+
+#: ../admin.php:98
+msgid "or "
+msgstr ""
+
+#: ../admin.php:98
+msgid "Log in"
+msgstr "Accedi"
+
+#: ../admin.php:99
+msgid "Registration is completed! wait for the approval."
+msgstr "La registrazione è stata completata. Attendi l'approvazione."
+
+#: ../admin.php:107 ../functions.php:1105
+msgid "Welcome"
+msgstr "Benvenuto"
+
+#: ../admin.php:113
+msgid "You&rsquo;re logged in as "
+msgstr "Sei entrato come"
+
+#: ../admin.php:115
+msgid "Log out"
+msgstr "Esci"
+
+#: ../admin.php:117
+msgid "Admin"
+msgstr "Amministrazione"
+
+#: ../archive-prodotto.php:174 ../archive-prodotto.php:176
+#: ../archive-prodotto.php:205 ../archive.php:174 ../archive.php:176
+#: ../archive.php:205 ../category-linea.php:174 ../category-linea.php:176
+#: ../category-linea.php:205 ../category-prodotto.php:174
+#: ../category-prodotto.php:176 ../category-prodotto.php:205
+#: ../category.php:174 ../category.php:176 ../category.php:205
+#: ../single-not-login.php:140 ../single.php:195
+#: ../template-test-prodotto.php:472
+msgid "By"
+msgstr "di"
+
+#: ../archive-prodotto.php:176 ../archive-prodotto.php:205 ../archive.php:176
+#: ../archive.php:205 ../category-linea.php:176 ../category-linea.php:205
+#: ../category-prodotto.php:176 ../category-prodotto.php:205
+#: ../category.php:176 ../category.php:205 ../single-not-login.php:140
+#: ../single.php:195 ../template-test-prodotto.php:472
+msgid "0 Comments"
+msgstr "0 commenti"
+
+#: ../archive-prodotto.php:176 ../archive-prodotto.php:205 ../archive.php:176
+#: ../archive.php:205 ../category-linea.php:176 ../category-linea.php:205
+#: ../category-prodotto.php:176 ../category-prodotto.php:205
+#: ../category.php:176 ../category.php:205 ../single-not-login.php:140
+#: ../single.php:195 ../template-test-prodotto.php:472
+msgid "1 Comment"
+msgstr "1 Commento"
+
+#: ../archive-prodotto.php:176 ../archive-prodotto.php:205 ../archive.php:176
+#: ../archive.php:205 ../category-linea.php:176 ../category-linea.php:205
+#: ../category-prodotto.php:176 ../category-prodotto.php:205
+#: ../category.php:176 ../category.php:205 ../single-not-login.php:140
+#: ../single.php:195 ../template-test-prodotto.php:472
+msgid "Comments"
+msgstr "Commenti"
+
+#: ../archive-prodotto.php:196 ../archive-prodotto.php:209 ../archive.php:196
+#: ../archive.php:209 ../category-linea.php:196 ../category-linea.php:209
+#: ../category-prodotto.php:196 ../category-prodotto.php:209
+#: ../category.php:196 ../category.php:209
+msgid "Read More"
+msgstr "Continua a leggere"
+
+#: ../archive-prodotto.php:200 ../archive.php:200 ../category-linea.php:200
+#: ../category-prodotto.php:200 ../category.php:200
+msgid "0"
+msgstr "0"
+
+#: ../archive-prodotto.php:200 ../archive.php:200 ../category-linea.php:200
+#: ../category-prodotto.php:200 ../category.php:200
+msgid "1"
+msgstr "1"
+
+#: ../armadi-page-template.php:134 ../lavapadelle-page-template.php:137
+#: ../lavastrumenti-page-template.php:136
+msgid "Description"
+msgstr "Descrizione"
+
+#: ../armadi-page-template.php:150 ../functions.php:674
+#: ../single-prodotto-armadi.php:149 ../single-prodotto-backup.php:154
+#: ../single-prodotto-old.php:129 ../template-test-prodotto.php:104
+#: ../template-test-prodotto.php:396
+msgid "Specifications"
+msgstr "Caratteristiche"
+
+#: ../armadi-page-template.php:153 ../functions.php:567 ../functions.php:819
+#: ../lavapadelle-page-template.php:156 ../lavastrumenti-page-template.php:155
+#: ../single-prodotto-armadi.php:152 ../single-prodotto-backup.php:157
+#: ../single-prodotto-old.php:132 ../template-test-prodotto.php:107
+#: ../template-test-prodotto.php:399
+msgid "Weight"
+msgstr "Peso"
+
+#: ../armadi-page-template.php:158 ../functions.php:572 ../functions.php:824
+#: ../lavapadelle-page-template.php:161 ../lavastrumenti-page-template.php:161
+#: ../single-prodotto-armadi.php:157 ../single-prodotto-backup.php:162
+#: ../single-prodotto-old.php:137 ../template-test-prodotto.php:112
+#: ../template-test-prodotto.php:404
+msgid "Width"
+msgstr "Larghezza"
+
+#: ../armadi-page-template.php:163 ../functions.php:577 ../functions.php:829
+#: ../lavapadelle-page-template.php:166 ../lavastrumenti-page-template.php:166
+#: ../single-prodotto-armadi.php:162 ../single-prodotto-backup.php:167
+#: ../single-prodotto-old.php:142 ../template-test-prodotto.php:117
+#: ../template-test-prodotto.php:409
+msgid "Dept"
+msgstr "Profondità"
+
+#: ../armadi-page-template.php:168 ../functions.php:582 ../functions.php:834
+#: ../lavapadelle-page-template.php:171 ../lavastrumenti-page-template.php:171
+#: ../single-prodotto-armadi.php:167 ../single-prodotto-backup.php:172
+#: ../single-prodotto-old.php:147 ../template-test-prodotto.php:122
+#: ../template-test-prodotto.php:414
+msgid "Height"
+msgstr "Altezza"
+
+#: ../armadi-page-template.php:223 ../lavastrumenti-page-template.php:228
+msgid "Fullscreen"
+msgstr "Mostra a schermo intero"
+
+#: ../arredo-page-template.php:34 ../arredo-page-template.php:550
+msgid "Sluice room"
+msgstr "Accessori per locali vuotatoio (progetto chiavi in mano)"
+
+#: ../arredo-page-template.php:108 ../arredo-page-template.php:551
+msgid "Endo furniture"
+msgstr "Armadi Endo"
+
+#: ../arredo-page-template.php:146 ../arredo-page-template.php:552
+msgid "Iso furniture"
+msgstr "Armadi iso"
+
+#: ../arredo-page-template.php:182 ../arredo-page-template.php:553
+msgid "Dressing trolleys and accessories"
+msgstr "Carrelli servitori e accessori"
+
+#: ../arredo-page-template.php:240 ../arredo-page-template.php:554
+msgid "Central sterilization: packaging area"
+msgstr "Centrale sterilizzazione confezionamento"
+
+#: ../arredo-page-template.php:284 ../arredo-page-template.php:555
+msgid "Central sterilization: washing area"
+msgstr "Centrale sterilizzazione zona lavaggio"
+
+#: ../arredo-page-template.php:336 ../arredo-page-template.php:556
+msgid "Small details, big results"
+msgstr "La grande filosofia dei piccoli particolari"
+
+#: ../arredo-page-template.php:387 ../arredo-page-template.php:557
+msgid "Equipped theatres for medical rooms"
+msgstr "Pareti tecniche attrezzate"
+
+#: ../arredo-page-template.php:426 ../arredo-page-template.php:558
+msgid "Operating room"
+msgstr "Sala operatoria"
+
+#: ../arredo-page-template.php:473 ../arredo-page-template.php:559
+msgid "Surgical sink"
+msgstr "Sala operatoria lavelli chirurgici"
+
+#: ../arredo-page-template.php:513 ../arredo-page-template.php:560
+msgid "Hospital equipment specialists"
+msgstr "Specialisti in arredamento ospedaliero"
+
+#: ../download.php:209
+msgid "Manuals"
+msgstr "Manuali"
+
+#: ../download.php:212 ../download.php:285 ../download.php:343
+#: ../download.php:396
+msgid "Doc:"
+msgstr "Doc:"
+
+#: ../download.php:213 ../download.php:286 ../download.php:344
+#: ../download.php:397
+msgid "Type:"
+msgstr "Tipo:"
+
+#: ../download.php:214 ../download.php:287 ../download.php:345
+#: ../download.php:398
+msgid "Title:"
+msgstr "Titolo:"
+
+#: ../download.php:215 ../download.php:288 ../download.php:346
+#: ../download.php:399
+msgid "Model:"
+msgstr "Macchina:"
+
+#: ../download.php:216 ../download.php:289 ../download.php:347
+#: ../download.php:400
+msgid "Notes:"
+msgstr "Note:"
+
+#: ../download.php:246 ../download.php:319 ../download.php:373
+#: ../download.php:430
+msgid "Download file:"
+msgstr "Scarica file:"
+
+#: ../download.php:282
+msgid "Installation diagrams"
+msgstr "Schemi d'installazione"
+
+#: ../download.php:340
+msgid "Programs"
+msgstr "Programmi"
+
+#: ../download.php:393
+msgid "Other"
+msgstr "altre informazioni:"
+
+#: ../functions.php:510 ../functions.php:564
+#: ../lavastrumenti-page-template.php:152
+msgid "Technical features"
+msgstr "Caratteristiche"
+
+#: ../functions.php:511 ../single-prodotto-armadi.php:27
+#: ../single-prodotto-backup.php:35
+msgid "Characteristics"
+msgstr "Caratteristiche"
+
+#: ../functions.php:710
+msgid "High Tech Features"
+msgstr "Caratteristiche tecnologiche"
+
+#: ../functions.php:710
+msgid "(Where available)"
+msgstr "(Dove presenti)"
+
+#: ../functions.php:814
+msgid "Full features"
+msgstr "Caratteristiche complete "
+
+#: ../functions.php:843 ../template-test-prodotto.php:419
+msgid "H<sub>2</sub>O alimentation pressure"
+msgstr "Pressione di alimentazione H<sub>2</sub>O"
+
+#: ../functions.php:848 ../template-test-prodotto.php:424
+msgid "Water Temperature"
+msgstr "Temperatura di alimentazione H<sub>2</sub>O calda"
+
+#: ../functions.php:853 ../template-test-prodotto.php:429
+msgid "Water connection"
+msgstr "Allacciamenti acqua"
+
+#: ../functions.php:858 ../template-test-prodotto.php:434
+msgid "Drain siphon"
+msgstr "Sifone di scarico"
+
+#: ../functions.php:863 ../template-test-prodotto.php:439
+msgid "Water consumption"
+msgstr "Consumo acqua"
+
+#: ../functions.php:868 ../template-test-prodotto.php:444
+msgid "Noisiness"
+msgstr "rumorosità"
+
+#: ../functions.php:873 ../template-test-prodotto.php:449
+msgid "Relative humidity"
+msgstr "Umidità  relativa"
+
+#: ../functions.php:878 ../template-test-prodotto.php:454
+msgid "Work temperature"
+msgstr "Temperatura di lavoro"
+
+#: ../functions.php:883 ../template-test-prodotto.php:459
+msgid "EN Norms"
+msgstr "Norme EN"
+
+#: ../functions.php:894
+msgid "Noise"
+msgstr "Rumorosità"
+
+#: ../functions.php:899
+msgid "Air flow introduced in the cabinet"
+msgstr "Flusso d'aria introdotto nell'armadio"
+
+#: ../functions.php:904
+msgid "Pressure"
+msgstr "Pressione"
+
+#: ../functions.php:909
+msgid "aspiration filter"
+msgstr "Filtro d'aspirazione"
+
+#: ../functions.php:919
+msgid "Load height (5 level trolley 10 DIN)"
+msgstr "Altezza carico (Carrello 5 livelli 10 DIN)"
+
+#: ../functions.php:924
+msgid "Main water pressure"
+msgstr "Alimentazione H<sub>2</sub>O calda"
+
+#: ../functions.php:929
+msgid "Capacity washing pum"
+msgstr "Portata pompa di lavaggio"
+
+#: ../functions.php:934
+msgid "Cold water connection"
+msgstr "Allacciamento-Attacco acqua fredda"
+
+#: ../functions.php:939
+msgid "Hot water connection"
+msgstr "Allacciamento-Attacco acqua calda"
+
+#: ../functions.php:945
+msgid "Purified water connection"
+msgstr "Allacciamento-Attacco acqua demineralizzata"
+
+#: ../functions.php:952
+msgid "Facility stream connection"
+msgstr "Allacciamento vapore da rete"
+
+#: ../functions.php:957
+msgid "Cold water consumption for standard cycle"
+msgstr "Consumo di acqua fredda su ciclo standard"
+
+#: ../functions.php:962
+msgid "Hot water consumption for standard cycle"
+msgstr "Consumo di acqua calda su ciclo standard"
+
+#: ../functions.php:968
+msgid "Demineralized water consumption for standard cycle"
+msgstr "Consumo di acqua demineralizzata su ciclo standard"
+
+#: ../functions.php:974
+msgid "Drain trap (Corrosion-proof and 93°C resistant pipe)"
+msgstr "Sifone di scarico (Tubazione anticorrosiva e resistente a 93°C)"
+
+#: ../functions.php:980
+msgid "Chamber breather pipe connection"
+msgstr "Connessione sfiato camera"
+
+#: ../functions.php:986
+msgid "Chamber breather pipe flow rate"
+msgstr "Portata sfiato camera"
+
+#: ../functions.php:992
+msgid "Heat loss"
+msgstr "Dispersione termica"
+
+#: ../functions.php:998
+msgid "noise"
+msgstr "Rumorosità"
+
+#: ../functions.php:1023 ../functions.php:1125 ../inc/menu-functions.php:11
+msgid "Reserved area"
+msgstr "Area riservata"
+
+#: ../functions.php:1028
+msgid "Nome utente"
+msgstr ""
+
+#: ../functions.php:1029 ../functions.php:1089
+msgid "Password"
+msgstr "Password"
+
+#: ../functions.php:1030
+msgid "Ricorda l'accesso"
+msgstr ""
+
+#: ../functions.php:1031
+msgid "Accedi"
+msgstr "F"
+
+#: ../functions.php:1088
+msgid "Username"
+msgstr "Nome utente"
+
+#: ../functions.php:1090
+msgid "Remember Me"
+msgstr "Ricordami"
+
+#: ../functions.php:1091
+msgid "Log In"
+msgstr "Accedi"
+
+#: ../functions.php:1149 ../inc/menu-functions.php:5
+#: ../inc/menu-functions.php:7
+msgid "AT-OS News"
+msgstr "AT-OS News"
+
+#: ../header-single-product.php:924 ../header.php:925
+msgid "Search results for:"
+msgstr "Risultati di ricerca per:"
+
+#: ../header-single-product.php:942 ../header.php:943
+msgid "Error 404 Page"
+msgstr "Errore"
+
+#: ../header-single-product.php:955 ../header-single-product.php:1035
+#: ../header.php:956 ../header.php:1036
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archivi giornalieri: %s"
+
+#: ../header-single-product.php:957 ../header-single-product.php:1037
+#: ../header.php:958 ../header.php:1038
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archivi mensili: %s"
+
+#: ../header-single-product.php:959 ../header-single-product.php:1039
+#: ../header.php:960 ../header.php:1040
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archivi annuali: %s"
+
+#: ../header-single-product.php:1075 ../header.php:1076
+msgid "Home"
+msgstr "Home"
+
+#: ../homepage.php:64
+msgid "Read more"
+msgstr "Continua a leggere"
+
+#: ../homepage.php:75
+msgid "Currently there are no news."
+msgstr "Attualmente non ci sono news."
+
+#: ../homepage.php:80
+msgid "Events and fairs"
+msgstr "Eventi e fiere"
+
+#: ../homepage.php:115 ../single.php:185
+msgid "From"
+msgstr "Dal"
+
+#: ../homepage.php:115 ../single.php:185
+msgid "to"
+msgstr "al"
+
+#: ../homepage.php:128
+msgid "Currently there are no events and exhibitions."
+msgstr "Attualmente non sono fissati eventi e fiere."
+
+#: ../inc/images-functions.php:8 ../inc/images-functions.php:141
+msgid "No image URL has been entered."
+msgstr ""
+
+#: ../inc/images-functions.php:42 ../inc/images-functions.php:176
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: ../inc/images-functions.php:204
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr ""
+
+#: ../inc/images-functions.php:247
+msgid "Resize path invalid (GIF)"
+msgstr ""
+
+#: ../inc/images-functions.php:251
+msgid "Resize path invalid (PNG)."
+msgstr ""
+
+#: ../inc/images-functions.php:259
+msgid "Resize path invalid (JPG)."
+msgstr ""
+
+#: ../inc/images-functions.php:274
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+
+#: ../inc/prodotti-functions.php:89
+msgid "AWD655-8 DIN Line"
+msgstr "Linea AWD655-8 DIN"
+
+#: ../inc/prodotti-functions.php:96
+msgid "AWD655-10 DIN Line"
+msgstr "Linea AWD655-10 DIN"
+
+#: ../inc/prodotti-functions.php:103
+msgid "AWD655-15 DIN Line"
+msgstr "Linea AWD655-15 DIN"
+
+#: ../inc/prodotti-functions.php:148
+msgid "AF2 Professional Line"
+msgstr "AF2 Professional Line"
+
+#: ../inc/prodotti-functions.php:152 ../inc/prodotti-functions.php:180
+#: ../inc/prodotti-functions.php:205
+msgid "See all the counter-top models"
+msgstr "Vedi tutti i modelli a banco"
+
+#: ../inc/prodotti-functions.php:154 ../inc/prodotti-functions.php:182
+#: ../inc/prodotti-functions.php:207
+msgid "Counter-top"
+msgstr "A Banco"
+
+#: ../inc/prodotti-functions.php:159 ../inc/prodotti-functions.php:187
+#: ../inc/prodotti-functions.php:208
+msgid "See all the stand-alone models"
+msgstr "Vedi tutti i modelli a colonna"
+
+#: ../inc/prodotti-functions.php:161 ../inc/prodotti-functions.php:189
+#: ../inc/prodotti-functions.php:210
+msgid "Stand-alone"
+msgstr "A colonna"
+
+#: ../inc/prodotti-functions.php:166 ../inc/prodotti-functions.php:197
+msgid "See all the built-in models"
+msgstr "Vedi tutti i modelli ad incasso"
+
+#: ../inc/prodotti-functions.php:168 ../inc/prodotti-functions.php:199
+msgid "Built-in"
+msgstr "Incassata"
+
+#: ../inc/prodotti-functions.php:176
+msgid "AF2 Compact Line"
+msgstr "AF2 Compact Line"
+
+#: ../inc/prodotti-functions.php:203
+msgid "AF2 Simplex Line"
+msgstr "AF2 Simplex Line"
+
+#: ../inc/prodotti-functions.php:227 ../inc/prodotti-functions.php:237
+msgid "Select "
+msgstr "Seleziona"
+
+#: ../inc/prodotti-functions.php:361
+msgid "Automatic version available"
+msgstr "Versione automatica disponibile"
+
+#: ../inc/prodotti-functions.php:361
+msgid ""
+"The operator can open and close the door by pushing the foot pedal or "
+"activating the optical sensor on the touch screen panel. Available for "
+"automatic version."
+msgstr ""
+"L’operatore apre e chiude la porta utilizzando il pedale o attivando il "
+"sensore ottico sulla tastiera touch screen. Disponibile per le versioni "
+"automatiche."
+
+#: ../inc/prodotti-functions.php:361
+msgid "Discover the automatic version"
+msgstr "Scopri la versione automatica"
+
+#: ../inc/prodotti-functions.php:370
+msgid "Speed Cycle version available"
+msgstr "Versione speed-cycle disponibile"
+
+#: ../inc/prodotti-functions.php:370
+msgid ""
+"Additional tanks allow the pre-heating of warm and demineralized water in "
+"order to speed the washing and disinfection steps. The total time of the "
+"cycle is reduced by up to 50%."
+msgstr ""
+"Boiler aggiuntivi per il preriscaldo dell’acqua calda e demineralizzata per "
+"velocizzare le fasi di lavaggio e disinfezione. Il tempo totale del ciclo si "
+"riduce fino al 50%."
+
+#: ../inc/prodotti-functions.php:370
+msgid "Discover the speed-cycle version"
+msgstr "Scopri la versione speed-cycle"
+
+#: ../inc/prodotti-menu.php:6
+msgid "Bedpan washer disinfectors"
+msgstr "Lavapadelle"
+
+#: ../inc/prodotti-menu.php:12 ../prodotti.back.php:26
+msgid "Instruments washer disinfector"
+msgstr "Lavastrumenti"
+
+#: ../inc/prodotti-menu.php:18 ../prodotti.back.php:50
+msgid "Cabinets for storage and drying"
+msgstr "Armadi asciugatura"
+
+#: ../inc/prodotti-menu.php:24 ../prodotti.back.php:41
+msgid "Furniture for sluice room"
+msgstr "Arredo"
+
+#: ../inc/registration-functions.php:45
+msgid "<strong>ERROR</strong>: Please Enter Company Name"
+msgstr "<strong>ERRORE</strong>: Inserisci il nome Azienda"
+
+#: ../inc/registration-functions.php:51
+msgid "<strong>ERROR</strong>: Please Enter Company address"
+msgstr "<strong>ERRORE</strong>: Per favore inserisci l'indirizzo dell'azienda"
+
+#: ../inc/registration-functions.php:57
+msgid "<strong>ERROR</strong>: Please Enter Company ZIP"
+msgstr "<strong>ERRORE</strong>: Inserisci il CAP"
+
+#: ../inc/registration-functions.php:63
+msgid "<strong>ERROR</strong>: Please Enter Company state"
+msgstr "<strong>ERRORE</strong>: Inserisci la provincia di provenienza"
+
+#: ../inc/registration-functions.php:69
+msgid "<strong>ERROR</strong>: Please Enter Company country"
+msgstr "<strong>ERRORE</strong>: Inserisci lo stato dove risiede l'azienda"
+
+#: ../inc/registration-functions.php:152
+msgid "AT-OS Registration Form:"
+msgstr "Modulo di registrazione AT-OS"
+
+#: ../inc/registration-functions.php:191
+#, fuzzy
+msgid "HDD Rodeo Registration Form:"
+msgstr "Modulo di registrazione HDD Rodeo"
+
+#: ../lavapadelle-page-template.php:140 ../lavastrumenti-page-template.php:139
+msgid "Automatic"
+msgstr "Automatica"
+
+#: ../lavapadelle-page-template.php:153 ../parts/nav-prodotti.php:13
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: ../lavapadelle-page-template.php:229
+msgid "Full screen view"
+msgstr "Vista ingrandita"
+
+#: ../lavapadelle-page-template.php:270 ../lavastrumenti-page-template.php:269
+msgid "Previus accessories"
+msgstr "Precedenti accessori"
+
+#: ../lavapadelle-page-template.php:271 ../lavastrumenti-page-template.php:270
+msgid "Next accessories"
+msgstr "Accessori successivi"
+
+#: ../parts/nav-prodotti.php:14
+msgid "Download"
+msgstr "Download"
+
+#: ../prodotti.back.php:17
+msgid "Washing and disinfecting machines"
+msgstr "Lavapadelle"
+
+#: ../single-not-login.php:30 ../single.php:38
+msgid "Previous"
+msgstr "Precedente"
+
+#: ../single-not-login.php:31 ../single.php:39
+msgid "Next"
+msgstr "Prossimo"
+
+#: ../single-not-login.php:146 ../single.php:205
+#: ../template-test-prodotto.php:478
+msgid "Share This Story, Choose Your Platform!"
+msgstr "Condividi questa news, scegli come!"
+
+#: ../single-not-login.php:249 ../single.php:310
+#: ../template-test-prodotto.php:581
+msgid "About the Author:"
+msgstr "L'autore:"
+
+#: ../single-not-login.php:265 ../single.php:326
+#: ../template-test-prodotto.php:597
+msgid "Related Posts"
+msgstr "Notizie correlate"
+
+#: ../single-prodotto-armadi.php:26 ../single-prodotto-backup.php:34
+msgid "Thecnical details"
+msgstr "Dettagli tecnici"
+
+#: ../taxonomy-famiglia.php:40 ../taxonomy-linea.php:42
+#, php-format
+msgid "View all post filed under %s"
+msgstr ""
+
+#: ../template-linee-lavapadelle.php:24 ../template-linee-lavapadelle.php:55
+#: ../template-linee-lavapadelle.php:86
+msgid "Washer Disinfector for human waste containers"
+msgstr "Macchine per lavaggio e disinfezione di contenitori sanitari"
+
+#: ../template-linee-lavapadelle.php:25
+msgid "Professional and high technology"
+msgstr "Professionale ad alta tecnologia"
+
+#: ../template-linee-lavapadelle.php:31 ../template-linee-lavapadelle.php:62
+msgid "DWC Disinfected Water Cooling"
+msgstr "DWC Risciacquo finale con acqua disinfettata"
+
+#: ../template-linee-lavapadelle.php:32 ../template-linee-lavapadelle.php:63
+#: ../template-linee-lavapadelle.php:96
+msgid "ETS Emptying Total System"
+msgstr "ETS Svuotamento completo dell’acqua"
+
+#: ../template-linee-lavapadelle.php:33 ../template-linee-lavapadelle.php:64
+#: ../template-linee-lavapadelle.php:97
+msgid "SDS Self Disinfection System"
+msgstr "SDS Sistema di autodisinfezione"
+
+#: ../template-linee-lavapadelle.php:34 ../template-linee-lavapadelle.php:65
+#: ../template-linee-lavapadelle.php:98
+msgid "DCS Drain Control System"
+msgstr "DCS Sistema di controllo del sifone di scarico"
+
+#: ../template-linee-lavapadelle.php:35 ../template-linee-lavapadelle.php:66
+msgid "Hands free starting"
+msgstr "Pulsanti a gomito"
+
+#: ../template-linee-lavapadelle.php:36 ../template-linee-lavapadelle.php:67
+msgid "Automatic door opening"
+msgstr "Apertura porta automatica"
+
+#: ../template-linee-lavapadelle.php:37
+msgid "DVS Disinfection Validation System"
+msgstr "DVS Sistema di validazione della disinfezione"
+
+#: ../template-linee-lavapadelle.php:56
+msgid "High technology for reduced spaces"
+msgstr "Alta tecnologia in spazi ridotti"
+
+#: ../template-linee-lavapadelle.php:89
+msgid "Simple and economic"
+msgstr "Semplice ed economica"
+
+#: ../template-test-prodotto.php:314
+msgid "high Tech specifications"
+msgstr "Caratteristiche high Tech"
+
+#~ msgid "Issue number:"
+#~ msgstr "Pubblicazione numero:"
+
+#~ msgid "Date:"
+#~ msgstr "Data:"
+
+#~ msgid "Download News"
+#~ msgstr "Download news"
+
+#~ msgid "General informations: "
+#~ msgstr "Informazioni generali:"
+
+#, fuzzy
+#~ msgid "Team responsable"
+#~ msgstr "Responsabile team"
+
+#, fuzzy
+#~ msgid "Enter the name of who is in charge to receive back the deposit"
+#~ msgstr "Inserisci il nome dell'incaricato che ritirerà la caparra"
+
+#~ msgid "User name"
+#~ msgstr "Nome utente"
+
+#, fuzzy
+#~ msgid "User email"
+#~ msgstr "La tua email"
+
+#, fuzzy
+#~ msgid "Company informations: "
+#~ msgstr "Informazioni azienda:"
+
+#, fuzzy
+#~ msgid "Team: "
+#~ msgstr "Team:"
+
+#, fuzzy
+#~ msgid "Team Name Choosen"
+#~ msgstr "Nome del Team scelto"
+
+#, fuzzy
+#~ msgid "Note that is not possible to edit the team name"
+#~ msgstr "Nota che non è possibile modificare il nome del Team."
+
+#, fuzzy
+#~ msgid "Operator 1 details: "
+#~ msgstr "Dettagli operatore 1:"
+
+#, fuzzy
+#~ msgid "Operator name"
+#~ msgstr "Nome Operatore"
+
+#, fuzzy
+#~ msgid "Operator E-Mail"
+#~ msgstr "E-mail Operatore"
+
+#, fuzzy
+#~ msgid "Preferred size"
+#~ msgstr "Taglia preferita"
+
+#, fuzzy
+#~ msgid "Operator 2 details: "
+#~ msgstr "Dettagli operatore 2:"
+
+#, fuzzy
+#~ msgid "Locating operator Name"
+#~ msgstr "Nome operatore dello strumento"
+
+#, fuzzy
+#~ msgid "Locating operator E-Mail"
+#~ msgstr "E-mail operatore dello strumento"
+
+#~ msgid "Other informations: "
+#~ msgstr "altre informazioni:"
+
+#, fuzzy
+#~ msgid "Reference Dealer"
+#~ msgstr "Dealer di riferimento"
+
+#, fuzzy
+#~ msgid "HDD Models"
+#~ msgstr "Modelli HDD"
+
+#~ msgid "Update informations"
+#~ msgstr "Aggiorna le informazioni"
+
+#, fuzzy
+#~ msgid "You must be logged in to edit your profile."
+#~ msgstr "Devi accedere per poter modificare il tuo profilo"
+
+#, fuzzy
+#~ msgid "Area riservata"
+#~ msgstr "Area riservata"
+
+#~ msgid "Full specifications"
+#~ msgstr "Caratteristiche complete"
+
+#, fuzzy
+#~ msgid "Alimentazione H<sub>2</sub>O"
+#~ msgstr "Pressione di alimentazione H<sub>2</sub>O"
+
+#~ msgid "technical details"
+#~ msgstr "dettagli tecnici"

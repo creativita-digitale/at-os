@@ -1,0 +1,386 @@
+
+
+@include susy-media($desktop) {
+	
+	
+	.site-branding .site-title a{
+	
+	text-indent: -119988px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+	display:block;
+	width:80px;
+	height:80px;
+	background-image: 	url('assets/images/at-os.png');
+	background-image: none, url('assets/images/at-os.svg');
+	  
+}
+	
+	
+	.main_product_group{
+		
+		
+		
+	
+	}
+	
+	/**
+	 * Primary Navigation
+	 */
+	.storefront-primary-navigation {
+		display: block;
+			
+			clear: none;
+			margin:0;
+			padding:0;
+		@include span(last 9 of 12);
+		margin-top: ms(3);
+		
+		.menu.nav-menu{
+			flat:right;
+		}
+		.menu.nav-menu > li{
+			float:left;
+		}
+		
+	}
+	
+	
+	#scheda-prodotto{
+			
+			.main_product_group{
+				
+				text-align: center;
+				
+					dl{
+			
+			dd{
+				a{
+					display:inline-block;
+				 min-height:260px;
+				}
+
+float: left !important;
+				
+			}
+
+			
+			&.professional_line_group{
+				
+				@include span( 4 of 12);
+				
+				
+				dd{
+					@include span( 2 of 6);
+					
+						&:nth-child(2){
+							
+							img{
+							margin-top: 112px;
+								
+							}
+						}
+						
+						&:nth-child(3){
+							
+							img{
+							margin-top: 10px;
+								
+							}
+						}
+					
+						nth-child(2n  + 1) {
+						@include span(last 2 of 6);
+					}
+					
+
+				}
+			}
+			
+			
+			&.compact_line_group{
+				@include span( 4 of 12);
+			}
+
+			&.simplex_line_group{
+				@include span( last 4 of 12);
+			}
+		}
+				
+				
+				
+				dd{
+						
+					}
+					
+			}
+			
+		}
+	
+	
+	#scheda-prodotto{
+			
+			.main_product_group{
+				
+				text-align: center;
+				
+				dl{
+			
+					
+					
+					dd{
+						
+						a{
+							display:inline-block;
+						 min-height:260px;
+						}
+						@include span( 2 of 6);
+
+							&:nth-child(2){
+
+								img{
+								margin-top: 112px;
+
+								}
+							}
+
+							&:nth-child(3){
+
+								img{
+								margin-top: 10px;
+
+								}
+							}
+
+							&:nth-child(4n) {
+							@include span(last 2 of 6);
+						}
+
+
+					}
+
+			
+					&.professional_line_group{
+
+					@include span( 4 of 12);
+
+
+					
+					}
+
+
+					&.compact_line_group{
+						@include span( 4 of 12);
+					}
+
+					&.simplex_line_group{
+						@include span( last 4 of 12);
+					}
+				}
+			}
+			
+		}
+	
+	.site-header {
+		padding-top: 0;
+		padding-bottom: 0;
+		right:0;
+		left:0;
+		transition: all 0.4s ease;
+		
+		
+		
+		.col-full{
+			position:relative;
+		}
+		.site-branding {
+			display: block;
+			@include span(3 of 12);
+			clear: none;
+			margin-top: ms(1);
+			margin-bottom: ms(1);
+
+			img {
+				height: auto;
+				max-width: 100%;
+				max-height: none;
+			}
+		}
+		
+		
+	
+
+	
+	.breadcrumbs{
+		display: block;
+		@include span(full);
+		
+		.breadcrumbs-cat{
+			@include span(4 of 12);
+		}
+		
+		.breadcrumbs-label{
+			@include span(3 of 12);
+		}
+		.nav-pills{
+			@include span(last 5 of 12);
+		}
+	}
+	
+	.page{
+	
+		
+		
+		#page{
+		margin-top:10px;
+		max-width: 1440px;
+		margin-left: auto;
+		margin-right: auto;
+		background: #fff;
+	
+		}
+	}
+	
+	
+		
+	
+}
+
+	.product_info{
+		@include clearfix;
+		padding-bottom:ms(2);
+	}
+	
+	.breadcrumbs{
+		
+		@include span(8 of 12);
+		.breadcrumbs-cat ,
+		.breadcrumbs-label{
+			padding-top:ms(1);
+			float:left
+		}
+	
+	}
+	
+	.sub_menu_products{
+		margin:0;
+		@include span( last 4 of 12);
+		.menu-orizontal{
+			float:right;
+			li{
+				list-style-type:none;
+				float:left;
+				
+				a{
+					float:left;
+					padding:ms(1);
+				}
+			}
+		}
+	}
+	
+	
+	
+		
+		
+	.menu-product{
+		
+		@include span(3 of 12);
+	}
+		
+	#scheda-dettagli{
+		@include span(last 9 of 12);
+		padding-bottom:ms(2);
+	}
+	
+	#img-prodotto{
+		
+		@include span(5 of 12);
+		
+	}
+		
+	#dati-prodotto{
+		
+		@include span(last 7 of 12);
+		
+		#misure-small{
+			@include span( 8 of 12);
+		}
+		
+		.brochure-download{
+			@include span( last 4 of 12);
+		}
+		
+	}
+			
+	
+		
+	#carosello-prodotti-wrap{
+		
+		@include clearfix;
+		margin-bottom:ms(3);
+		padding: 0 ms(2);
+	}
+
+	.panel{
+		 @include gallery(4 of 12);
+		min-height: ms(10);
+
+		
+		
+	}
+	
+}
+	
+#carosello-modelli{
+		.product img {
+			
+			max-height:150px;
+			width:auto;
+			vertical-align: baseline;
+		}
+	}
+
+.accessori_list img{
+	max-height:150px;
+			width:auto;
+			vertical-align: baseline;
+}
+
+
+
+@include susy-media (max-width $container-width) {
+
+}
+
+@include susy-media (max-width $handheld) {
+	
+	#img-prodotto{
+		 img {
+			text-align: center;
+			 margin-left:auto;
+			 margin-right:auto;
+			
+			width:auto;
+			vertical-align: baseline;
+		}
+	}
+	#dati-prodotto{
+		h1{
+			text-align:center;
+		}
+	}
+	
+	#img-prodotto{
+		display: block;
+		
+		
+	}
+	
+	#dati-prodotto{
+		display: block;
+		
+		
+	}
+
+	}
